@@ -1,7 +1,7 @@
 ![CLlauncher](https://repository-images.githubusercontent.com/278638069/db0acb80-661b-11eb-803e-926cae5dccb4)
 
 
-# CLlauncher | CL stands for ChoiceLess
+# CLauncher | CL stands for ChoiceLess
 Only open applications that you had in mind, Instead of opening or seeing the apps before searching
 
 ## Install
